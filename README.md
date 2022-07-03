@@ -22,4 +22,4 @@ The temperature and precipitation trends in Oahu seem suitable for a Surf and Ic
 - The temperature and precipitation were good for a surf and ice cream shop. The investor can be more confident that this is a better venture than their previous attempt at opening a surf and ice cream shop. Assuming the other business factors have already been taken into account (e.g. competition, location, tourist traffic), the investor could consider this a good location for the shop.
 - For an even deeper look, the investor should use the tools provided to pull weather conditions for each month. This will reveal any outlier months if they exist. 
 - Additional metrics can be collected and analyzed for further confidence (e.g. wind conditions, wave heights)
-- The business owner and investor should consider another aspect of the business scope for the colder months if the first winter proves to not be as profitable for ice cream sales due to the colder weather (e.g. hot cocoa)
+- The business owner and investor should be aware and prepared for the colder months to make up for any potential decreases in ice cream profits.
